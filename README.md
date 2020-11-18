@@ -34,7 +34,6 @@ immediately will tell you and not do anything, just as an FYI if you keep gettin
 again" message. 
 
 4. A LIST OF ALL REFERENCES USED TO COMPLETE THE ASSIGNMENT, INCLUDING PEERS (IF APPLICABLE)
-a. ***Answer goes here.***
 Natalie Ewing helpped me a lot with setting up the template classes, I was struggling a 
 lot to get all the right things together for the template classes for some reason for 
 this project. Also, the way the ListADT and the way I handle the Student operators ideas
